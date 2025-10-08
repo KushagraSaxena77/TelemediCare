@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "ৰোগী",
+    "doctor": "চিকিৎসক",
+    "name": "নাম",
+    "age": "বয়স",
+    "date": "তাৰিখ",
+    "time": "সময়",
+    "symptoms": "লক্ষণ",
+    "notes": "টোকা",
+    "save": "সংৰক্ষণ কৰক",
+    "cancel": "বাতিল কৰক",
+    "submit": "দাখিল কৰক",
+    "back": "পিছলৈ",
+    "next": "পৰৱৰ্তী",
+    "loading": "লোড হৈ আছে...",
+    "error": "ত্ৰুটি",
+    "success": "সফলতা"
+  },
+  "landing": {
+    "title": "বহুভাষিক টেলিমেডিচিন প্লেটফৰ্ম",
+    "subtitle": "আপোনাৰ ভাষাত স্বাস্থ্য সেৱা",
+    "selectLanguage": "ভাষা বাছনি কৰক",
+    "selectRole": "আগবাঢ়িবলৈ আপোনাৰ ভূমিকা বাছনি কৰক:",
+    "iAmPatient": "মই এজন ৰোগী",
+    "iAmDoctor": "মই এজন চিকিৎসক"
+  },
+  "patient": {
+    "dashboard": "ৰোগী ডেছবৰ্ড",
+    "profile": "প্ৰফাইল",
+    "lastCheckup": "শেষ পৰীক্ষা",
+    "healthRecords": "স্বাস্থ্য ৰেকৰ্ড",
+    "symptomChecker": "লক্ষণ পৰীক্ষক",
+    "bookAppointment": "সাক্ষাৎকাৰ বুক কৰক",
+    "addRecord": "নতুন ৰেকৰ্ড যোগ কৰক",
+    "enterSymptoms": "আপোনাৰ লক্ষণসমূহ লিখক",
+    "checkSymptoms": "লক্ষণ পৰীক্ষা কৰক",
+    "vitals": "গুৰুত্বপূৰ্ণ সংকেত",
+    "temperature": "উষ্ণতা",
+    "bloodPressure": "ৰক্তচাপ",
+    "heartRate": "হৃদস্পন্দন",
+    "prescription": "প্ৰেছক্ৰিপচন",
+    "noRecords": "কোনো স্বাস্থ্য ৰেকৰ্ড পোৱা নগ'ল"
+  },
+  "doctor": {
+    "dashboard": "চিকিৎসক ডেছবৰ্ড",
+    "patients": "মোৰ ৰোগীসকল",
+    "appointments": "সাক্ষাৎকাৰ",
+    "viewRecord": "ৰেকৰ্ড চাওক",
+    "acceptAppointment": "গ্ৰহণ কৰক",
+    "rescheduleAppointment": "পুনৰ নিৰ্ধাৰণ কৰক",
+    "patientDetails": "ৰোগীৰ বিৱৰণ",
+    "specialty": "বিশেষত্ব"
+  },
+  "teleconsult": {
+    "title": "টেলিকনছালটেচন",
+    "joinCall": "কলত যোগদান কৰক",
+    "camera": "কেমেৰা",
+    "microphone": "মাইক্ৰোফোন",
+    "endCall": "কল শেষ কৰক",
+    "waitingForDoctor": "চিকিৎসক যোগদানৰ বাবে অপেক্ষা...",
+    "callConnected": "কল সংযুক্ত হৈছে"
+  },
+  "symptoms": {
+    "flu": "সাধাৰণ ফ্লু",
+    "cold": "সাধাৰণ চৰ্দি",
+    "gastritis": "গেছট্ৰাইটিছ",
+    "hypertension": "উচ্চ ৰক্তচাপ",
+    "fever": "জ্বৰ",
+    "headache": "মূৰৰ বিষ",
+    "recommendations": {
+      "rest": "পৰ্যাপ্ত বিশ্ৰাম লওক",
+      "fluids": "প্ৰচুৰ তৰল পদাৰ্থ খাওক",
+      "medication": "নিৰ্ধাৰিত ঔষধ সেৱন কৰক",
+      "consultation": "লক্ষণ অব্যাহত থাকিলে চিকিৎসকৰ পৰামৰ্শ লওক"
+    }
+  }
+}

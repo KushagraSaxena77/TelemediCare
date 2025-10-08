@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "बिरामी",
+    "doctor": "डाक्टर",
+    "name": "नाम",
+    "age": "उमेर",
+    "date": "मिति",
+    "time": "समय",
+    "symptoms": "लक्षणहरू",
+    "notes": "टिप्पणीहरू",
+    "save": "सेभ गर्नुहोस्",
+    "cancel": "रद्द गर्नुहोस्",
+    "submit": "पेश गर्नुहोस्",
+    "back": "पछाडि",
+    "next": "अगाडि",
+    "loading": "लोड भइरहेको छ...",
+    "error": "त्रुटि",
+    "success": "सफलता"
+  },
+  "landing": {
+    "title": "बहुभाषिक टेलिमेडिसिन प्लेटफर्म",
+    "subtitle": "तपाईंको भाषामा स्वास्थ्य सेवा",
+    "selectLanguage": "भाषा छान्नुहोस्",
+    "selectRole": "जारी राख्न तपाईंको भूमिका छान्नुहोस्:",
+    "iAmPatient": "म एक बिरामी हुँ",
+    "iAmDoctor": "म एक डाक्टर हुँ"
+  },
+  "patient": {
+    "dashboard": "बिरामी ड्यासबोर्ड",
+    "profile": "प्रोफाइल",
+    "lastCheckup": "अन्तिम जाँच",
+    "healthRecords": "स्वास्थ्य रेकर्डहरू",
+    "symptomChecker": "लक्षण जाँचकर्ता",
+    "bookAppointment": "भेटघाट बुक गर्नुहोस्",
+    "addRecord": "नयाँ रेकर्ड थप्नुहोस्",
+    "enterSymptoms": "तपाईंका लक्षणहरू प्रविष्ट गर्नुहोस्",
+    "checkSymptoms": "लक्षणहरू जाँच गर्नुहोस्",
+    "vitals": "महत्वपूर्ण संकेतहरू",
+    "temperature": "तापक्रम",
+    "bloodPressure": "रक्तचाप",
+    "heartRate": "मुटुको धड्कन",
+    "prescription": "प्रिस्क्रिप्शन",
+    "noRecords": "कुनै स्वास्थ्य रेकर्ड फेला परेन"
+  },
+  "doctor": {
+    "dashboard": "डाक्टर ड्यासबोर्ड",
+    "patients": "मेरा बिरामीहरू",
+    "appointments": "भेटघाटहरू",
+    "viewRecord": "रेकर्ड हेर्नुहोस्",
+    "acceptAppointment": "स्वीकार गर्नुहोस्",
+    "rescheduleAppointment": "पुनः तालिका मिलाउनुहोस्",
+    "patientDetails": "बिरामीको विवरण",
+    "specialty": "विशेषता"
+  },
+  "teleconsult": {
+    "title": "टेलिकन्सल्टेसन",
+    "joinCall": "कलमा सामेल हुनुहोस्",
+    "camera": "क्यामेरा",
+    "microphone": "माइक्रोफोन",
+    "endCall": "कल समाप्त गर्नुहोस्",
+    "waitingForDoctor": "डाक्टर सामेल हुनको लागि पर्खिदै...",
+    "callConnected": "कल जडान भयो"
+  },
+  "symptoms": {
+    "flu": "सामान्य फ्लू",
+    "cold": "सामान्य रुघाखोकी",
+    "gastritis": "ग्यास्ट्राइटिस",
+    "hypertension": "उच्च रक्तचाप",
+    "fever": "ज्वरो",
+    "headache": "टाउको दुखाइ",
+    "recommendations": {
+      "rest": "पर्याप्त आराम गर्नुहोस्",
+      "fluids": "धेरै तरल पदार्थ पिउनुहोस्",
+      "medication": "सुझाइएको औषधि लिनुहोस्",
+      "consultation": "लक्षणहरू जारी रह्यो भने डाक्टरसँग सल्लाह लिनुहोस्"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "रोगी",
+    "doctor": "डाक्टर",
+    "name": "मिंग",
+    "age": "बयस",
+    "date": "सान",
+    "time": "समै",
+    "symptoms": "लाखान्ति",
+    "notes": "बिजाब",
+    "save": "थुंला",
+    "cancel": "नांगो",
+    "submit": "बिमा",
+    "back": "उनफिन",
+    "next": "गाबु",
+    "loading": "लोड होनाय...",
+    "error": "गोरोन्थि",
+    "success": "सफल"
+  },
+  "landing": {
+    "title": "गोबां राव टेलिमेडिसिन प्लेटफर्म",
+    "subtitle": "नोंथांनि रावफोर स्वास्थ्य सेवा",
+    "selectLanguage": "राव सोलै",
+    "selectRole": "सिगांनो थांखि नोंथांनि भूमिका सोलै:",
+    "iAmPatient": "आंग रोगी मोन्",
+    "iAmDoctor": "आंग डाक्टर मोन्"
+  },
+  "patient": {
+    "dashboard": "रोगीनि डैशबोर्ड",
+    "profile": "प्रोफाइल",
+    "lastCheckup": "आयदा जांच",
+    "healthRecords": "स्वास्थ्य रिकर्ड",
+    "symptomChecker": "लाखान्ति जांचनाय",
+    "bookAppointment": "मिलनाय बुक खालाम",
+    "addRecord": "गोदान रिकर्ड दाजाब",
+    "enterSymptoms": "नोंथांनि लाखान्ति लिर",
+    "checkSymptoms": "लाखान्ति जांच खालाम",
+    "vitals": "गोजौ निशान",
+    "temperature": "गुवार",
+    "bloodPressure": "गुदुं दाब",
+    "heartRate": "थुमानि गोदोब",
+    "prescription": "दावै",
+    "noRecords": "स्वास्थ्य रिकर्ड मोनाखै"
+  },
+  "doctor": {
+    "dashboard": "डाक्टरनि डैशबोर्ड",
+    "patients": "आंनि रोगीफोर",
+    "appointments": "मिलनाय",
+    "viewRecord": "रिकर्ड नैना",
+    "acceptAppointment": "मानै",
+    "rescheduleAppointment": "फिन समै बिमा",
+    "patientDetails": "रोगीनि बिबरण",
+    "specialty": "बिसेस"
+  },
+  "teleconsult": {
+    "title": "टेलिकन्सल्टेशन",
+    "joinCall": "कल आ गाबु होना",
+    "camera": "कैमरा",
+    "microphone": "माइक्रोफोन",
+    "endCall": "कल आयदाब",
+    "waitingForDoctor": "डाक्टर गाबु होनो रैना...",
+    "callConnected": "कल जुरै होगोन"
+  },
+  "symptoms": {
+    "flu": "सामान्य फ्लू",
+    "cold": "सामान्य सिलसिल",
+    "gastritis": "गैस्ट्राइटिस",
+    "hypertension": "बावगा गुदुं दाब",
+    "fever": "जोर",
+    "headache": "खोरनि ना",
+    "recommendations": {
+      "rest": "गोजौ बिसोर खालाम",
+      "fluids": "गोबां दै थुंग",
+      "medication": "बिमानाय दावै जा",
+      "consultation": "लाखान्ति थानाय होनो डाक्टरजों सलाह लै"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "രോഗി",
+    "doctor": "ഡോക്ടർ",
+    "name": "പേര്",
+    "age": "പ്രായം",
+    "date": "തീയതി",
+    "time": "സമയം",
+    "symptoms": "ലക്ഷണങ്ങൾ",
+    "notes": "കുറിപ്പുകൾ",
+    "save": "സേവ് ചെയ്യുക",
+    "cancel": "റദ്ദാക്കുക",
+    "submit": "സമർപ്പിക്കുക",
+    "back": "പിന്നോട്ട്",
+    "next": "അടുത്തത്",
+    "loading": "ലോഡ് ചെയ്യുന്നു...",
+    "error": "പിശക്",
+    "success": "വിജയം"
+  },
+  "landing": {
+    "title": "ബഹുഭാഷാ ടെലിമെഡിസിൻ പ്ലാറ്റ്‌ഫോം",
+    "subtitle": "നിങ്ങളുടെ ഭാഷയിൽ ആരോഗ്യ സേവനം",
+    "selectLanguage": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+    "selectRole": "തുടരാൻ നിങ്ങളുടെ റോൾ തിരഞ്ഞെടുക്കുക:",
+    "iAmPatient": "ഞാൻ ഒരു രോഗിയാണ്",
+    "iAmDoctor": "ഞാൻ ഒരു ഡോക്ടറാണ്"
+  },
+  "patient": {
+    "dashboard": "രോഗി ഡാഷ്‌ബോർഡ്",
+    "profile": "പ്രൊഫൈൽ",
+    "lastCheckup": "അവസാന പരിശോധന",
+    "healthRecords": "ആരോഗ്യ രേഖകൾ",
+    "symptomChecker": "ലക്ഷണ പരിശോധകൻ",
+    "bookAppointment": "അപ്പോയിന്റ്മെന്റ് ബുക്ക് ചെയ്യുക",
+    "addRecord": "പുതിയ രേഖ ചേർക്കുക",
+    "enterSymptoms": "നിങ്ങളുടെ ലക്ഷണങ്ങൾ നൽകുക",
+    "checkSymptoms": "ലക്ഷണങ്ങൾ പരിശോധിക്കുക",
+    "vitals": "പ്രധാന സൂചകങ്ങൾ",
+    "temperature": "താപനില",
+    "bloodPressure": "രക്തസമ്മർദ്ദം",
+    "heartRate": "ഹൃദയമിടിപ്പ്",
+    "prescription": "കുറിപ്പടി",
+    "noRecords": "ആരോഗ്യ രേഖകൾ കണ്ടെത്തിയില്ല"
+  },
+  "doctor": {
+    "dashboard": "ഡോക്ടർ ഡാഷ്‌ബോർഡ്",
+    "patients": "എന്റെ രോഗികൾ",
+    "appointments": "അപ്പോയിന്റ്മെന്റുകൾ",
+    "viewRecord": "രേഖ കാണുക",
+    "acceptAppointment": "സ്വീകരിക്കുക",
+    "rescheduleAppointment": "വീണ്ടും ഷെഡ്യൂൾ ചെയ്യുക",
+    "patientDetails": "രോഗിയുടെ വിവരങ്ങൾ",
+    "specialty": "സ്പെഷ്യാലിറ്റി"
+  },
+  "teleconsult": {
+    "title": "ടെലികൺസൾട്ടേഷൻ",
+    "joinCall": "കോളിൽ ചേരുക",
+    "camera": "ക്യാമറ",
+    "microphone": "മൈക്രോഫോൺ",
+    "endCall": "കോൾ അവസാനിപ്പിക്കുക",
+    "waitingForDoctor": "ഡോക്ടർ ചേരാൻ കാത്തിരിക്കുന്നു...",
+    "callConnected": "കോൾ കണക്റ്റ് ചെയ്തു"
+  },
+  "symptoms": {
+    "flu": "സാധാരണ ഫ്ലൂ",
+    "cold": "സാധാരണ ജലദോഷം",
+    "gastritis": "ഗ്യാസ്ട്രൈറ്റിസ്",
+    "hypertension": "ഉയർന്ന രക്തസമ്മർദ്ദം",
+    "fever": "പനി",
+    "headache": "തലവേദന",
+    "recommendations": {
+      "rest": "മതിയായ വിശ്രമം എടുക്കുക",
+      "fluids": "ധാരാളം ദ്രാവകങ്ങൾ കുടിക്കുക",
+      "medication": "നിർദ്ദേശിച്ച മരുന്ന് കഴിക്കുക",
+      "consultation": "ലക്ഷണങ്ങൾ തുടർന്നാൽ ഡോക്ടറെ സമീപിക്കുക"
+    }
+  }
+}

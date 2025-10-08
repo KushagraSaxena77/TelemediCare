@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "రోగి",
+    "doctor": "వైద్యుడు",
+    "name": "పేరు",
+    "age": "వయస్సు",
+    "date": "తేదీ",
+    "time": "సమయం",
+    "symptoms": "లక్షణాలు",
+    "notes": "గమనికలు",
+    "save": "సేవ్ చేయండి",
+    "cancel": "రద్దు చేయండి",
+    "submit": "సమర్పించండి",
+    "back": "వెనుకకు",
+    "next": "తదుపరి",
+    "loading": "లోడ్ అవుతోంది...",
+    "error": "లోపం",
+    "success": "విజయం"
+  },
+  "landing": {
+    "title": "బహుభాషా టెలిమెడిసిన్ ప్లాట్‌ఫారమ్",
+    "subtitle": "మీ భాషలో ఆరోగ్య సేవలు",
+    "selectLanguage": "భాష ఎంచుకోండి",
+    "selectRole": "కొనసాగించడానికి మీ పాత్రను ఎంచుకోండి:",
+    "iAmPatient": "నేను రోగిని",
+    "iAmDoctor": "నేను వైద్యుడిని"
+  },
+  "patient": {
+    "dashboard": "రోగి డ్యాష్‌బోర్డ్",
+    "profile": "ప్రొఫైల్",
+    "lastCheckup": "చివరి పరీక్ష",
+    "healthRecords": "ఆరోగ్య రికార్డులు",
+    "symptomChecker": "లక్షణ పరీక్షకం",
+    "bookAppointment": "అపాయింట్‌మెంట్ బుక్ చేయండి",
+    "addRecord": "కొత్త రికార్డ్ జోడించండి",
+    "enterSymptoms": "మీ లక్షణాలను నమోదు చేయండి",
+    "checkSymptoms": "లక్షణాలను పరీక్షించండి",
+    "vitals": "కీలక సంకేతాలు",
+    "temperature": "ఉష్ణోగ్రత",
+    "bloodPressure": "రక్తపోటు",
+    "heartRate": "హృదయ స్పందన",
+    "prescription": "ప్రిస్క్రిప్షన్",
+    "noRecords": "ఆరోగ్య రికార్డులు కనుగొనబడలేదు"
+  },
+  "doctor": {
+    "dashboard": "వైద్య డ్యాష్‌బోర్డ్",
+    "patients": "నా రోగులు",
+    "appointments": "అపాయింట్‌మెంట్లు",
+    "viewRecord": "రికార్డ్ చూడండి",
+    "acceptAppointment": "అంగీకరించండి",
+    "rescheduleAppointment": "మళ్లీ షెడ్యూల్ చేయండి",
+    "patientDetails": "రోగి వివరాలు",
+    "specialty": "ప్రత్యేకత"
+  },
+  "teleconsult": {
+    "title": "టెలికన్సల్టేషన్",
+    "joinCall": "కాల్‌లో చేరండి",
+    "camera": "కెమెరా",
+    "microphone": "మైక్రోఫోన్",
+    "endCall": "కాల్ ముగించండి",
+    "waitingForDoctor": "వైద్యుడు చేరడానికి వేచి ఉంది...",
+    "callConnected": "కాల్ కనెక్ట్ అయింది"
+  },
+  "symptoms": {
+    "flu": "సాధారణ ఫ్లూ",
+    "cold": "సాధారణ జలుబు",
+    "gastritis": "గ్యాస్ట్రైటిస్",
+    "hypertension": "అధిక రక్తపోటు",
+    "fever": "జ్వరం",
+    "headache": "తలనొప్పి",
+    "recommendations": {
+      "rest": "తగినంత విశ్రాంతి తీసుకోండి",
+      "fluids": "చాలా ద్రవాలు తాగండి",
+      "medication": "సూచించిన మందులు తీసుకోండి",
+      "consultation": "లక్షణాలు కొనసాగితే వైద్యుడిని సంప్రదించండి"
+    }
+  }
+}

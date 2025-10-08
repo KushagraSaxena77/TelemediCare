@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "রোগী",
+    "doctor": "ডাক্তার",
+    "name": "নাম",
+    "age": "বয়স",
+    "date": "তারিখ",
+    "time": "সময়",
+    "symptoms": "লক্ষণ",
+    "notes": "নোট",
+    "save": "সংরক্ষণ করুন",
+    "cancel": "বাতিল",
+    "submit": "জমা দিন",
+    "back": "পিছনে",
+    "next": "পরবর্তী",
+    "loading": "লোড হচ্ছে...",
+    "error": "ত্রুটি",
+    "success": "সফল"
+  },
+  "landing": {
+    "title": "বহুভাষিক টেলিমেডিসিন প্ল্যাটফর্ম",
+    "subtitle": "আপনার ভাষায় স্বাস্থ্যসেবা",
+    "selectLanguage": "ভাষা নির্বাচন করুন",
+    "selectRole": "চালিয়ে যেতে আপনার ভূমিকা নির্বাচন করুন:",
+    "iAmPatient": "আমি একজন রোগী",
+    "iAmDoctor": "আমি একজন ডাক্তার"
+  },
+  "patient": {
+    "dashboard": "রোগীর ড্যাশবোর্ড",
+    "profile": "প্রোফাইল",
+    "lastCheckup": "শেষ পরীক্ষা",
+    "healthRecords": "স্বাস্থ্য রেকর্ড",
+    "symptomChecker": "লক্ষণ পরীক্ষক",
+    "bookAppointment": "অ্যাপয়েন্টমেন্ট বুক করুন",
+    "addRecord": "নতুন রেকর্ড যোগ করুন",
+    "enterSymptoms": "আপনার লক্ষণ লিখুন",
+    "checkSymptoms": "লক্ষণ পরীক্ষা করুন",
+    "vitals": "গুরুত্বপূর্ণ চিহ্ন",
+    "temperature": "তাপমাত্রা",
+    "bloodPressure": "রক্তচাপ",
+    "heartRate": "হৃদস্পন্দন",
+    "prescription": "প্রেসক্রিপশন",
+    "noRecords": "কোনো স্বাস্থ্য রেকর্ড পাওয়া যায়নি"
+  },
+  "doctor": {
+    "dashboard": "ডাক্তারের ড্যাশবোর্ড",
+    "patients": "আমার রোগীরা",
+    "appointments": "অ্যাপয়েন্টমেন্ট",
+    "viewRecord": "রেকর্ড দেখুন",
+    "acceptAppointment": "গ্রহণ করুন",
+    "rescheduleAppointment": "পুনঃনির্ধারণ করুন",
+    "patientDetails": "রোগীর বিবরণ",
+    "specialty": "বিশেষত্ব"
+  },
+  "teleconsult": {
+    "title": "টেলিকনসালটেশন",
+    "joinCall": "কল যোগ দিন",
+    "camera": "ক্যামেরা",
+    "microphone": "মাইক্রোফোন",
+    "endCall": "কল শেষ করুন",
+    "waitingForDoctor": "ডাক্তারের যোগদানের অপেক্ষায়...",
+    "callConnected": "কল সংযুক্ত"
+  },
+  "symptoms": {
+    "flu": "সাধারণ ফ্লু",
+    "cold": "সাধারণ সর্দি",
+    "gastritis": "গ্যাস্ট্রাইটিস",
+    "hypertension": "উচ্চ রক্তচাপ",
+    "fever": "জ্বর",
+    "headache": "মাথাব্যথা",
+    "recommendations": {
+      "rest": "পর্যাপ্ত বিশ্রাম নিন",
+      "fluids": "প্রচুর তরল পান করুন",
+      "medication": "নির্ধারিত ওষুধ সেবন করুন",
+      "consultation": "লক্ষণ অব্যাহত থাকলে ডাক্তারের পরামর্শ নিন"
+    }
+  }
+}

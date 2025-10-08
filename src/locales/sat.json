@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "ᱨᱩᱜᱤ",
+    "doctor": "ᱰᱟᱠᱛᱚᱨ",
+    "name": "ᱧᱩᱛᱩᱢ",
+    "age": "ᱵᱚᱭᱚᱥ",
+    "date": "ᱢᱟᱦᱟᱸ",
+    "time": "ᱚᱠᱛᱚ",
+    "symptoms": "ᱞᱚᱠᱷᱚᱱ",
+    "notes": "ᱱᱚᱴ",
+    "save": "ᱥᱟᱺᱪᱟᱣ ᱢᱮ",
+    "cancel": "ᱵᱟᱹᱰᱨᱟᱹ ᱢᱮ",
+    "submit": "ᱡᱚᱢᱟ ᱢᱮ",
+    "back": "ᱛᱟᱭᱚᱢ",
+    "next": "ᱞᱟᱦᱟ",
+    "loading": "ᱞᱚᱰ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ...",
+    "error": "ᱵᱷᱩᱞ",
+    "success": "ᱠᱟᱹᱢᱤᱭᱟᱹᱵᱤ"
+  },
+  "landing": {
+    "title": "ᱵᱟᱹᱲᱛᱤ ᱯᱟᱹᱨᱥᱤ ᱴᱮᱞᱤᱢᱮᱰᱤᱥᱤᱱ ᱯᱞᱮᱴᱯᱷᱚᱨᱢ",
+    "subtitle": "ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱦᱚᱲᱢᱚ ᱥᱮᱵᱟ",
+    "selectLanguage": "ᱯᱟᱹᱨᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱢᱮ",
+    "selectRole": "ᱞᱟᱦᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱠᱟᱹᱢᱤ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:",
+    "iAmPatient": "ᱤᱧ ᱢᱤᱫ ᱨᱩᱜᱤ ᱠᱟᱱᱟᱧ",
+    "iAmDoctor": "ᱤᱧ ᱢᱤᱫ ᱰᱟᱠᱛᱚᱨ ᱠᱟᱱᱟᱧ"
+  },
+  "patient": {
+    "dashboard": "ᱨᱩᱜᱤ ᱰᱮᱥᱵᱚᱨᱰ",
+    "profile": "ᱯᱨᱚᱯᱷᱟᱭᱤᱞ",
+    "lastCheckup": "ᱢᱩᱪᱟᱹᱫ ᱡᱟᱸᱪ",
+    "healthRecords": "ᱦᱚᱲᱢᱚ ᱨᱮᱠᱚᱨᱰ",
+    "symptomChecker": "ᱞᱚᱠᱷᱚᱱ ᱡᱟᱸᱪᱤᱡ",
+    "bookAppointment": "ᱧᱟᱯᱟᱢ ᱵᱩᱠ ᱢᱮ",
+    "addRecord": "ᱱᱟᱶᱟ ᱨᱮᱠᱚᱨᱰ ᱥᱮᱞᱮᱫ ᱢᱮ",
+    "enterSymptoms": "ᱟᱢᱟᱜ ᱞᱚᱠᱷᱚᱱ ᱚᱞ ᱢᱮ",
+    "checkSymptoms": "ᱞᱚᱠᱷᱚᱱ ᱡᱟᱸᱪ ᱢᱮ",
+    "vitals": "ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱪᱤᱱᱦᱟᱹ",
+    "temperature": "ᱞᱚᱞᱚ",
+    "bloodPressure": "ᱢᱟᱭᱟᱢ ᱫᱟᱵ",
+    "heartRate": "ᱦᱤᱨᱫᱟᱹ ᱫᱷᱚᱲᱚᱠ",
+    "prescription": "ᱫᱟᱣᱟᱭ ᱠᱟᱜᱚᱡ",
+    "noRecords": "ᱦᱚᱲᱢᱚ ᱨᱮᱠᱚᱨᱰ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ"
+  },
+  "doctor": {
+    "dashboard": "ᱰᱟᱠᱛᱚᱨ ᱰᱮᱥᱵᱚᱨᱰ",
+    "patients": "ᱤᱧᱟᱜ ᱨᱩᱜᱤ ᱠᱚ",
+    "appointments": "ᱧᱟᱯᱟᱢ ᱠᱚ",
+    "viewRecord": "ᱨᱮᱠᱚᱨᱰ ᱧᱮᱞ ᱢᱮ",
+    "acceptAppointment": "ᱢᱟᱱᱟᱣ ᱢᱮ",
+    "rescheduleAppointment": "ᱫᱚᱦᱲᱟ ᱚᱠᱛᱚ ᱞᱟᱜᱟᱣ ᱢᱮ",
+    "patientDetails": "ᱨᱩᱜᱤᱭᱟᱜ ᱵᱤᱵᱨᱚᱱ",
+    "specialty": "ᱵᱤᱥᱮᱥ ᱜᱭᱟᱱ"
+  },
+  "teleconsult": {
+    "title": "ᱴᱮᱞᱤᱠᱚᱱᱥᱚᱞᱴᱮᱥᱚᱱ",
+    "joinCall": "ᱠᱚᱞ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ",
+    "camera": "ᱠᱮᱢᱮᱨᱟ",
+    "microphone": "ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ",
+    "endCall": "ᱠᱚᱞ ᱢᱩᱪᱟᱹᱫ ᱢᱮ",
+    "waitingForDoctor": "ᱰᱟᱠᱛᱚᱨ ᱥᱮᱞᱮᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱛᱟᱸᱦᱮᱸᱱ...",
+    "callConnected": "ᱠᱚᱞ ᱡᱚᱲᱟᱣ ᱮᱱᱟ"
+  },
+  "symptoms": {
+    "flu": "ᱥᱟᱫᱷᱟᱨᱚᱱ ᱯᱷᱞᱩ",
+    "cold": "ᱥᱟᱫᱷᱟᱨᱚᱱ ᱨᱟᱵᱟᱝ",
+    "gastritis": "ᱜᱮᱥᱴᱨᱟᱭᱴᱤᱥ",
+    "hypertension": "ᱡᱟᱹᱥᱛᱤ ᱢᱟᱭᱟᱢ ᱫᱟᱵ",
+    "fever": "ᱵᱩᱠᱷᱟᱹᱨ",
+    "headache": "ᱵᱚᱦᱚᱜ ᱨᱟᱹᱯᱩᱫ",
+    "recommendations": {
+      "rest": "ᱯᱩᱨᱟᱹ ᱟᱨᱟᱢ ᱢᱮ",
+      "fluids": "ᱡᱟᱹᱥᱛᱤ ᱫᱟᱜ ᱧᱩ ᱢᱮ",
+      "medication": "ᱮᱢ ᱟᱠᱟᱱ ᱫᱟᱣᱟᱭ ᱧᱩ ᱢᱮ",
+      "consultation": "ᱞᱚᱠᱷᱚᱱ ᱞᱮᱛᱟᱲ ᱞᱮᱱ ᱠᱷᱟᱱ ᱰᱟᱠᱛᱚᱨ ᱥᱟᱞᱟᱦᱟ ᱢᱮ"
+    }
+  }
+}

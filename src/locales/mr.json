@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "रुग्ण",
+    "doctor": "डॉक्टर",
+    "name": "नाव",
+    "age": "वय",
+    "date": "तारीख",
+    "time": "वेळ",
+    "symptoms": "लक्षणे",
+    "notes": "टिपा",
+    "save": "जतन करा",
+    "cancel": "रद्द करा",
+    "submit": "सबमिट करा",
+    "back": "मागे",
+    "next": "पुढे",
+    "loading": "लोड होत आहे...",
+    "error": "त्रुटी",
+    "success": "यश"
+  },
+  "landing": {
+    "title": "बहुभाषिक टेलिमेडिसिन प्लॅटफॉर्म",
+    "subtitle": "तुमच्या भाषेत आरोग्य सेवा",
+    "selectLanguage": "भाषा निवडा",
+    "selectRole": "सुरू ठेवण्यासाठी तुमची भूमिका निवडा:",
+    "iAmPatient": "मी एक रुग्ण आहे",
+    "iAmDoctor": "मी एक डॉक्टर आहे"
+  },
+  "patient": {
+    "dashboard": "रुग्ण डॅशबोर्ड",
+    "profile": "प्रोफाइल",
+    "lastCheckup": "शेवटची तपासणी",
+    "healthRecords": "आरोग्य नोंदी",
+    "symptomChecker": "लक्षण तपासक",
+    "bookAppointment": "भेटीची वेळ बुक करा",
+    "addRecord": "नवीन रेकॉर्ड जोडा",
+    "enterSymptoms": "तुमची लक्षणे प्रविष्ट करा",
+    "checkSymptoms": "लक्षणे तपासा",
+    "vitals": "महत्वाचे संकेत",
+    "temperature": "तापमान",
+    "bloodPressure": "रक्तदाब",
+    "heartRate": "हृदयाचा ठोका",
+    "prescription": "प्रिस्क्रिप्शन",
+    "noRecords": "आरोग्य नोंदी सापडल्या नाहीत"
+  },
+  "doctor": {
+    "dashboard": "डॉक्टर डॅशबोर्ड",
+    "patients": "माझे रुग्ण",
+    "appointments": "भेटी",
+    "viewRecord": "रेकॉर्ड पहा",
+    "acceptAppointment": "स्वीकार करा",
+    "rescheduleAppointment": "पुन्हा वेळापत्रक करा",
+    "patientDetails": "रुग्णाचे तपशील",
+    "specialty": "विशेषता"
+  },
+  "teleconsult": {
+    "title": "टेलिकन्सल्टेशन",
+    "joinCall": "कॉलमध्ये सामील व्हा",
+    "camera": "कॅमेरा",
+    "microphone": "मायक्रोफोन",
+    "endCall": "कॉल संपवा",
+    "waitingForDoctor": "डॉक्टरांच्या सामील होण्याची प्रतीक्षा...",
+    "callConnected": "कॉल जोडला गेला"
+  },
+  "symptoms": {
+    "flu": "सामान्य फ्लू",
+    "cold": "सामान्य सर्दी",
+    "gastritis": "गॅस्ट्रायटिस",
+    "hypertension": "उच्च रक्तदाब",
+    "fever": "ताप",
+    "headache": "डोकेदुखी",
+    "recommendations": {
+      "rest": "पुरेशी विश्रांती घ्या",
+      "fluids": "भरपूर द्रव प्या",
+      "medication": "सूचित औषधे घ्या",
+      "consultation": "लक्षणे कायम राहिल्यास डॉक्टरांचा सल्ला घ्या"
+    }
+  }
+}

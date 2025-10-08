@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "ರೋಗಿ",
+    "doctor": "ವೈದ್ಯ",
+    "name": "ಹೆಸರು",
+    "age": "ವಯಸ್ಸು",
+    "date": "ದಿನಾಂಕ",
+    "time": "ಸಮಯ",
+    "symptoms": "ಲಕ್ಷಣಗಳು",
+    "notes": "ಟಿಪ್ಪಣಿಗಳು",
+    "save": "ಉಳಿಸಿ",
+    "cancel": "ರದ್ದುಮಾಡಿ",
+    "submit": "ಸಲ್ಲಿಸಿ",
+    "back": "ಹಿಂದೆ",
+    "next": "ಮುಂದೆ",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "error": "ದೋಷ",
+    "success": "ಯಶಸ್ಸು"
+  },
+  "landing": {
+    "title": "ಬಹುಭಾಷಾ ಟೆಲಿಮೆಡಿಸಿನ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್",
+    "subtitle": "ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಆರೋಗ್ಯ ಸೇವೆ",
+    "selectLanguage": "ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ",
+    "selectRole": "ಮುಂದುವರಿಸಲು ನಿಮ್ಮ ಪಾತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ:",
+    "iAmPatient": "ನಾನು ರೋಗಿ",
+    "iAmDoctor": "ನಾನು ವೈದ್ಯ"
+  },
+  "patient": {
+    "dashboard": "ರೋಗಿ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "profile": "ಪ್ರೊಫೈಲ್",
+    "lastCheckup": "ಕೊನೆಯ ತಪಾಸಣೆ",
+    "healthRecords": "ಆರೋಗ್ಯ ದಾಖಲೆಗಳು",
+    "symptomChecker": "ಲಕ್ಷಣ ಪರೀಕ್ಷಕ",
+    "bookAppointment": "ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್ ಬುಕ್ ಮಾಡಿ",
+    "addRecord": "ಹೊಸ ದಾಖಲೆ ಸೇರಿಸಿ",
+    "enterSymptoms": "ನಿಮ್ಮ ಲಕ್ಷಣಗಳನ್ನು ನಮೂದಿಸಿ",
+    "checkSymptoms": "ಲಕ್ಷಣಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ",
+    "vitals": "ಪ್ರಮುಖ ಸಂಕೇತಗಳು",
+    "temperature": "ತಾಪಮಾನ",
+    "bloodPressure": "ರಕ್ತದೊತ್ತಡ",
+    "heartRate": "ಹೃದಯ ಬಡಿತ",
+    "prescription": "ಪ್ರಿಸ್ಕ್ರಿಪ್ಷನ್",
+    "noRecords": "ಆರೋಗ್ಯ ದಾಖಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "doctor": {
+    "dashboard": "ವೈದ್ಯ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "patients": "ನನ್ನ ರೋಗಿಗಳು",
+    "appointments": "ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್‌ಗಳು",
+    "viewRecord": "ದಾಖಲೆ ವೀಕ್ಷಿಸಿ",
+    "acceptAppointment": "ಸ್ವೀಕರಿಸಿ",
+    "rescheduleAppointment": "ಮರು ನಿಗದಿಪಡಿಸಿ",
+    "patientDetails": "ರೋಗಿಯ ವಿವರಗಳು",
+    "specialty": "ವಿಶೇಷತೆ"
+  },
+  "teleconsult": {
+    "title": "ಟೆಲಿಕನ್ಸಲ್ಟೇಷನ್",
+    "joinCall": "ಕರೆಯಲ್ಲಿ ಸೇರಿ",
+    "camera": "ಕ್ಯಾಮೆರಾ",
+    "microphone": "ಮೈಕ್ರೊಫೋನ್",
+    "endCall": "ಕರೆ ಮುಗಿಸಿ",
+    "waitingForDoctor": "ವೈದ್ಯ ಸೇರಲು ಕಾಯುತ್ತಿದೆ...",
+    "callConnected": "ಕರೆ ಸಂಪರ್ಕಗೊಂಡಿದೆ"
+  },
+  "symptoms": {
+    "flu": "ಸಾಮಾನ್ಯ ಫ್ಲೂ",
+    "cold": "ಸಾಮಾನ್ಯ ಶೀತ",
+    "gastritis": "ಗ್ಯಾಸ್ಟ್ರೈಟಿಸ್",
+    "hypertension": "ಅಧಿಕ ರಕ್ತದೊತ್ತಡ",
+    "fever": "ಜ್ವರ",
+    "headache": "ತಲೆನೋವು",
+    "recommendations": {
+      "rest": "ಸಾಕಷ್ಟು ವಿಶ್ರಾಂತಿ ತೆಗೆದುಕೊಳ್ಳಿ",
+      "fluids": "ಸಾಕಷ್ಟು ದ್ರವಗಳನ್ನು ಕುಡಿಯಿರಿ",
+      "medication": "ಸೂಚಿಸಿದ ಔಷಧಿ ತೆಗೆದುಕೊಳ್ಳಿ",
+      "consultation": "ಲಕ್ಷಣಗಳು ಮುಂದುವರಿದರೆ ವೈದ್ಯರನ್ನು ಸಂಪರ್ಕಿಸಿ"
+    }
+  }
+}

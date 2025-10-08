@@ -1,0 +1,101 @@
+{
+  "common": {
+    "patient": "Patient",
+    "doctor": "Doctor",
+    "name": "Name",
+    "age": "Age",
+    "date": "Date",
+    "time": "Time",
+    "symptoms": "Symptoms",
+    "notes": "Notes",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "landing": {
+    "title": "Multilingual Telemedicine Platform",
+    "subtitle": "Healthcare in your language",
+    "selectLanguage": "Select Language",
+    "selectRole": "Select your role to continue:",
+    "iAmPatient": "I am a Patient",
+    "iAmDoctor": "I am a Doctor"
+  },
+  "patient": {
+    "dashboard": "Patient Dashboard",
+    "profile": "Profile",
+    "lastCheckup": "Last Checkup",
+    "healthRecords": "Health Records",
+    "symptomChecker": "Symptom Checker",
+    "bookAppointment": "Book Appointment",
+    "addRecord": "Add New Record",
+    "enterSymptoms": "Enter your symptoms",
+    "checkSymptoms": "Check Symptoms",
+    "vitals": "Vitals",
+    "temperature": "Temperature",
+    "bloodPressure": "Blood Pressure",
+    "heartRate": "Heart Rate",
+    "prescription": "Prescription",
+    "noRecords": "No health records found"
+  },
+  "doctor": {
+    "dashboard": "Doctor Dashboard",
+    "patients": "My Patients",
+    "appointments": "Appointments",
+    "viewRecord": "View Record",
+    "acceptAppointment": "Accept",
+    "rescheduleAppointment": "Reschedule",
+    "patientDetails": "Patient Details",
+    "specialty": "Specialty"
+  },
+  "teleconsult": {
+    "title": "Teleconsultation",
+    "joinCall": "Join Call",
+    "camera": "Camera",
+    "microphone": "Microphone",
+    "endCall": "End Call",
+    "waitingForDoctor": "Waiting for doctor to join...",
+    "callConnected": "Call Connected",
+    "connecting": "Connecting..."
+  },
+  "symptoms": {
+    "flu": "Common Flu",
+    "cold": "Common Cold",
+    "gastritis": "Gastritis",
+    "hypertension": "High Blood Pressure",
+    "fever": "Fever",
+    "headache": "Headache",
+    "recommendations": {
+      "rest": "Take adequate rest",
+      "fluids": "Drink plenty of fluids",
+      "medication": "Take prescribed medication",
+      "consultation": "Consult a doctor if symptoms persist"
+    }
+  },
+  "voice": {
+    "assistant": "Voice Assistant",
+    "listening": "Listening...",
+    "notListening": "Tap to speak",
+    "startListening": "Start Voice Command",
+    "stopListening": "Stop Listening",
+    "notSupported": "Voice commands not supported in this browser",
+    "commands": {
+      "goHome": "Go home",
+      "goDashboard": "Go to dashboard",
+      "bookAppointment": "Book appointment",
+      "checkSymptoms": "Check symptoms",
+      "viewProfile": "View profile",
+      "help": "Help"
+    },
+    "feedback": {
+      "commandRecognized": "Command recognized",
+      "commandNotRecognized": "Command not recognized. Try again.",
+      "navigatingTo": "Navigating to",
+      "opening": "Opening"
+    }
+  }
+}

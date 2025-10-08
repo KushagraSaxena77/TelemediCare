@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "ରୋଗୀ",
+    "doctor": "ଡାକ୍ତର",
+    "name": "ନାମ",
+    "age": "ବୟସ",
+    "date": "ତାରିଖ",
+    "time": "ସମୟ",
+    "symptoms": "ଲକ୍ଷଣ",
+    "notes": "ନୋଟ୍",
+    "save": "ସେଭ୍ କରନ୍ତୁ",
+    "cancel": "ବାତିଲ୍ କରନ୍ତୁ",
+    "submit": "ଦାଖଲ କରନ୍ତୁ",
+    "back": "ପଛକୁ",
+    "next": "ପରବର୍ତ୍ତୀ",
+    "loading": "ଲୋଡ୍ ହେଉଛି...",
+    "error": "ତ୍ରୁଟି",
+    "success": "ସଫଳତା"
+  },
+  "landing": {
+    "title": "ବହୁଭାଷୀ ଟେଲିମେଡିସିନ୍ ପ୍ଲାଟଫର୍ମ",
+    "subtitle": "ଆପଣଙ୍କ ଭାଷାରେ ସ୍ୱାସ୍ଥ୍ୟ ସେବା",
+    "selectLanguage": "ଭାଷା ବାଛନ୍ତୁ",
+    "selectRole": "ଆଗକୁ ବଢ଼ିବା ପାଇଁ ଆପଣଙ୍କ ଭୂମିକା ବାଛନ୍ତୁ:",
+    "iAmPatient": "ମୁଁ ଜଣେ ରୋଗୀ",
+    "iAmDoctor": "ମୁଁ ଜଣେ ଡାକ୍ତର"
+  },
+  "patient": {
+    "dashboard": "ରୋଗୀ ଡ୍ୟାସବୋର୍ଡ",
+    "profile": "ପ୍ରୋଫାଇଲ୍",
+    "lastCheckup": "ଶେଷ ଯାଞ୍ଚ",
+    "healthRecords": "ସ୍ୱାସ୍ଥ୍ୟ ରେକର୍ଡ",
+    "symptomChecker": "ଲକ୍ଷଣ ଯାଞ୍ଚକାରୀ",
+    "bookAppointment": "ଆପଏଣ୍ଟମେଣ୍ଟ ବୁକ୍ କରନ୍ତୁ",
+    "addRecord": "ନୂଆ ରେକର୍ଡ ଯୋଗ କରନ୍ତୁ",
+    "enterSymptoms": "ଆପଣଙ୍କ ଲକ୍ଷଣ ଲେଖନ୍ତୁ",
+    "checkSymptoms": "ଲକ୍ଷଣ ଯାଞ୍ଚ କରନ୍ତୁ",
+    "vitals": "ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସଙ୍କେତ",
+    "temperature": "ତାପମାତ୍ରା",
+    "bloodPressure": "ରକ୍ତଚାପ",
+    "heartRate": "ହୃଦସ୍ପନ୍ଦନ",
+    "prescription": "ପ୍ରେସକ୍ରିପସନ୍",
+    "noRecords": "କୌଣସି ସ୍ୱାସ୍ଥ୍ୟ ରେକର୍ଡ ମିଳିଲା ନାହିଁ"
+  },
+  "doctor": {
+    "dashboard": "ଡାକ୍ତର ଡ୍ୟାସବୋର୍ଡ",
+    "patients": "ମୋର ରୋଗୀମାନେ",
+    "appointments": "ଆପଏଣ୍ଟମେଣ୍ଟ",
+    "viewRecord": "ରେକର୍ଡ ଦେଖନ୍ତୁ",
+    "acceptAppointment": "ଗ୍ରହଣ କରନ୍ତୁ",
+    "rescheduleAppointment": "ପୁନଃନିର୍ଧାରଣ କରନ୍ତୁ",
+    "patientDetails": "ରୋଗୀର ବିବରଣୀ",
+    "specialty": "ବିଶେଷତା"
+  },
+  "teleconsult": {
+    "title": "ଟେଲିକନସଲଟେସନ୍",
+    "joinCall": "କଲ୍‌ରେ ଯୋଗ ଦିଅନ୍ତୁ",
+    "camera": "କ୍ୟାମେରା",
+    "microphone": "ମାଇକ୍ରୋଫୋନ୍",
+    "endCall": "କଲ୍ ଶେଷ କରନ୍ତୁ",
+    "waitingForDoctor": "ଡାକ୍ତର ଯୋଗ ଦେବାକୁ ଅପେକ୍ଷା...",
+    "callConnected": "କଲ୍ ସଂଯୁକ୍ତ ହୋଇଛି"
+  },
+  "symptoms": {
+    "flu": "ସାଧାରଣ ଫ୍ଲୁ",
+    "cold": "ସାଧାରଣ ଥଣ୍ଡା",
+    "gastritis": "ଗ୍ୟାସ୍ଟ୍ରାଇଟିସ୍",
+    "hypertension": "ଉଚ୍ଚ ରକ୍ତଚାପ",
+    "fever": "ଜ୍ୱର",
+    "headache": "ମୁଣ୍ଡବିନ୍ଧା",
+    "recommendations": {
+      "rest": "ପର୍ଯ୍ୟାପ୍ତ ବିଶ୍ରାମ ନିଅନ୍ତୁ",
+      "fluids": "ଅଧିକ ତରଳ ପଦାର୍ଥ ପିଅନ୍ତୁ",
+      "medication": "ନିର୍ଦ୍ଦିଷ୍ଟ ଔଷଧ ନିଅନ୍ତୁ",
+      "consultation": "ଲକ୍ଷଣ ଜାରି ରହିଲେ ଡାକ୍ତରଙ୍କ ସହ ପରାମର୍ଶ କରନ୍ତୁ"
+    }
+  }
+}

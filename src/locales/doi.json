@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "मरीज",
+    "doctor": "डाक्टर",
+    "name": "नाम",
+    "age": "उम्र",
+    "date": "तारीख",
+    "time": "समां",
+    "symptoms": "लक्षण",
+    "notes": "नोट्स",
+    "save": "सेव करो",
+    "cancel": "रद्द करो",
+    "submit": "जमा करो",
+    "back": "पिच्छे",
+    "next": "अग्गे",
+    "loading": "लोड होआ दा...",
+    "error": "गलती",
+    "success": "सफलता"
+  },
+  "landing": {
+    "title": "बहुभाषी टेलीमेडिसिन प्लेटफार्म",
+    "subtitle": "तुसां दी भाषा च सेहत दी सेवा",
+    "selectLanguage": "भाषा चुनो",
+    "selectRole": "अग्गे बधने लेई अपना किरदार चुनो:",
+    "iAmPatient": "मैं इक मरीज आं",
+    "iAmDoctor": "मैं इक डाक्टर आं"
+  },
+  "patient": {
+    "dashboard": "मरीज डैशबोर्ड",
+    "profile": "प्रोफाइल",
+    "lastCheckup": "आखरी जांच",
+    "healthRecords": "सेहत दे रिकार्ड",
+    "symptomChecker": "लक्षण जांचने आला",
+    "bookAppointment": "मुलाकात बुक करो",
+    "addRecord": "नवां रिकार्ड पाओ",
+    "enterSymptoms": "अपने लक्षण लिखो",
+    "checkSymptoms": "लक्षण जांचो",
+    "vitals": "जरूरी निशान",
+    "temperature": "तापमान",
+    "bloodPressure": "खून दा दबाव",
+    "heartRate": "दिल दी धड़कन",
+    "prescription": "नुस्खा",
+    "noRecords": "कोई सेहत दे रिकार्ड नेईं मिले"
+  },
+  "doctor": {
+    "dashboard": "डाक्टर डैशबोर्ड",
+    "patients": "मेरे मरीज",
+    "appointments": "मुलाकातां",
+    "viewRecord": "रिकार्ड दिखो",
+    "acceptAppointment": "मंजूर करो",
+    "rescheduleAppointment": "दोबारा समां तै करो",
+    "patientDetails": "मरीज दे ब्यौरे",
+    "specialty": "खासियत"
+  },
+  "teleconsult": {
+    "title": "टेलीकंसल्टेशन",
+    "joinCall": "कॉल च शामल होओ",
+    "camera": "कैमरा",
+    "microphone": "माइक्रोफोन",
+    "endCall": "कॉल खत्म करो",
+    "waitingForDoctor": "डाक्टर दे शामल होने दा इंतजार...",
+    "callConnected": "कॉल जुड़ गेई"
+  },
+  "symptoms": {
+    "flu": "आम फ्लू",
+    "cold": "आम जुकाम",
+    "gastritis": "गैस्ट्राइटिस",
+    "hypertension": "हाई ब्लड प्रेशर",
+    "fever": "बुखार",
+    "headache": "सिर दर्द",
+    "recommendations": {
+      "rest": "पूरा आराम करो",
+      "fluids": "मते सारे तरल पदार्थ पियो",
+      "medication": "दित्ती गेई दवाई लो",
+      "consultation": "लक्षण जारी रैहने पर डाक्टर नाल सलाह करो"
+    }
+  }
+}

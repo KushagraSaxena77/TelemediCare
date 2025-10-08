@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "مریض",
+    "doctor": "ڈاکٹر",
+    "name": "ناو",
+    "age": "عمر",
+    "date": "تاریخ",
+    "time": "وقت",
+    "symptoms": "علامات",
+    "notes": "نوٹس",
+    "save": "محفوظ کریو",
+    "cancel": "منسوخ کریو",
+    "submit": "جمع کریو",
+    "back": "واپس",
+    "next": "اگلہ",
+    "loading": "لوڈ گژھان...",
+    "error": "خرابی",
+    "success": "کامیابی"
+  },
+  "landing": {
+    "title": "کثیر لسانی ٹیلی میڈیسن پلیٹ فارم",
+    "subtitle": "تہند زبانس منز صحت کی دیکھ بھال",
+    "selectLanguage": "زبان ژأریو",
+    "selectRole": "جاری تھاونہ باپت پنن کردار ژأریو:",
+    "iAmPatient": "بہ اکھ مریض چھس",
+    "iAmDoctor": "بہ اکھ ڈاکٹر چھس"
+  },
+  "patient": {
+    "dashboard": "مریض ڈیش بورڈ",
+    "profile": "پروفائل",
+    "lastCheckup": "آخری معائنہ",
+    "healthRecords": "صحت کہ ریکارڈ",
+    "symptomChecker": "علامات کی جانچ",
+    "bookAppointment": "ملاقات بک کریو",
+    "addRecord": "نیو ریکارڈ شامل کریو",
+    "enterSymptoms": "پنن علامات درج کریو",
+    "checkSymptoms": "علامات کی جانچ کریو",
+    "vitals": "اہم علامات",
+    "temperature": "درجہ حرارت",
+    "bloodPressure": "بلڈ پریشر",
+    "heartRate": "دل کی دھڑکن",
+    "prescription": "نسخہ",
+    "noRecords": "صحت کہ ریکارڈ نہ ملے"
+  },
+  "doctor": {
+    "dashboard": "ڈاکٹر ڈیش بورڈ",
+    "patients": "میہ مریض",
+    "appointments": "ملاقاتہ",
+    "viewRecord": "ریکارڈ وچھیو",
+    "acceptAppointment": "قبول کریو",
+    "rescheduleAppointment": "دوبارہ شیڈول کریو",
+    "patientDetails": "مریض کی تفصیلات",
+    "specialty": "خصوصیت"
+  },
+  "teleconsult": {
+    "title": "ٹیلی کنسلٹیشن",
+    "joinCall": "کال منز شامل گژھیو",
+    "camera": "کیمرہ",
+    "microphone": "مائیکروفون",
+    "endCall": "کال ختم کریو",
+    "waitingForDoctor": "ڈاکٹر کہ شامل گژھنہ کا انتظار...",
+    "callConnected": "کال جڑ گئی"
+  },
+  "symptoms": {
+    "flu": "عام فلو",
+    "cold": "عام زکام",
+    "gastritis": "گیسٹرائٹس",
+    "hypertension": "ہائی بلڈ پریشر",
+    "fever": "بخار",
+    "headache": "سر درد",
+    "recommendations": {
+      "rest": "مناسب آرام کریو",
+      "fluids": "زیادہ سے زیادہ سیال پیو",
+      "medication": "تجویز کردہ دوا لیو",
+      "consultation": "علامات برقرار رہنے پر ڈاکٹر سے رابطہ کریو"
+    }
+  }
+}

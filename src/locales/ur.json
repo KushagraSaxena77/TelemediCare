@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "مریض",
+    "doctor": "ڈاکٹر",
+    "name": "نام",
+    "age": "عمر",
+    "date": "تاریخ",
+    "time": "وقت",
+    "symptoms": "علامات",
+    "notes": "نوٹس",
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "submit": "جمع کریں",
+    "back": "واپس",
+    "next": "اگلا",
+    "loading": "لوڈ ہو رہا ہے...",
+    "error": "خرابی",
+    "success": "کامیابی"
+  },
+  "landing": {
+    "title": "کثیر لسانی ٹیلی میڈیسن پلیٹ فارم",
+    "subtitle": "آپ کی زبان میں صحت کی دیکھ بھال",
+    "selectLanguage": "زبان منتخب کریں",
+    "selectRole": "جاری رکھنے کے لیے اپنا کردار منتخب کریں:",
+    "iAmPatient": "میں ایک مریض ہوں",
+    "iAmDoctor": "میں ایک ڈاکٹر ہوں"
+  },
+  "patient": {
+    "dashboard": "مریض ڈیش بورڈ",
+    "profile": "پروفائل",
+    "lastCheckup": "آخری معائنہ",
+    "healthRecords": "صحت کے ریکارڈز",
+    "symptomChecker": "علامات کی جانچ",
+    "bookAppointment": "ملاقات بک کریں",
+    "addRecord": "نیا ریکارڈ شامل کریں",
+    "enterSymptoms": "اپنی علامات درج کریں",
+    "checkSymptoms": "علامات کی جانچ کریں",
+    "vitals": "اہم علامات",
+    "temperature": "درجہ حرارت",
+    "bloodPressure": "بلڈ پریشر",
+    "heartRate": "دل کی دھڑکن",
+    "prescription": "نسخہ",
+    "noRecords": "صحت کے ریکارڈز نہیں ملے"
+  },
+  "doctor": {
+    "dashboard": "ڈاکٹر ڈیش بورڈ",
+    "patients": "میرے مریض",
+    "appointments": "ملاقاتیں",
+    "viewRecord": "ریکارڈ دیکھیں",
+    "acceptAppointment": "قبول کریں",
+    "rescheduleAppointment": "دوبارہ شیڈول کریں",
+    "patientDetails": "مریض کی تفصیلات",
+    "specialty": "خصوصیت"
+  },
+  "teleconsult": {
+    "title": "ٹیلی کنسلٹیشن",
+    "joinCall": "کال میں شامل ہوں",
+    "camera": "کیمرہ",
+    "microphone": "مائیکروفون",
+    "endCall": "کال ختم کریں",
+    "waitingForDoctor": "ڈاکٹر کے شامل ہونے کا انتظار...",
+    "callConnected": "کال جڑ گئی"
+  },
+  "symptoms": {
+    "flu": "عام فلو",
+    "cold": "عام زکام",
+    "gastritis": "گیسٹرائٹس",
+    "hypertension": "ہائی بلڈ پریشر",
+    "fever": "بخار",
+    "headache": "سر درد",
+    "recommendations": {
+      "rest": "مناسب آرام کریں",
+      "fluids": "زیادہ سے زیادہ سیال پیئں",
+      "medication": "تجویز کردہ دوا لیں",
+      "consultation": "علامات برقرار رہنے پر ڈاکٹر سے رابطہ کریں"
+    }
+  }
+}

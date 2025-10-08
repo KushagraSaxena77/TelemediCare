@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "रुग्ण",
+    "doctor": "वैद्य",
+    "name": "नांव",
+    "age": "वयस्",
+    "date": "दिस",
+    "time": "वेळ",
+    "symptoms": "लक्षणां",
+    "notes": "नोंदी",
+    "save": "जतन करात",
+    "cancel": "रद्द करात",
+    "submit": "दिवप",
+    "back": "फाटल्यान",
+    "next": "मुखार",
+    "loading": "लोड जावन आसा...",
+    "error": "चूक",
+    "success": "यश"
+  },
+  "landing": {
+    "title": "बहुभाशिक टेलिमेडिसिन प्लॅटफॉर्म",
+    "subtitle": "तुमच्या भाशेंत आरोग्य सेवा",
+    "selectLanguage": "भास निवडात",
+    "selectRole": "चालू दवरपाक तुमची भूमिका निवडात:",
+    "iAmPatient": "हांव एक रुग्ण",
+    "iAmDoctor": "हांव एक वैद्य"
+  },
+  "patient": {
+    "dashboard": "रुग्ण डॅशबोर्ड",
+    "profile": "प्रोफाइल",
+    "lastCheckup": "निमाणी तपासणी",
+    "healthRecords": "आरोग्य नोंदी",
+    "symptomChecker": "लक्षण तपासणी करपी",
+    "bookAppointment": "भेट बुक करात",
+    "addRecord": "नवी नोंद घालात",
+    "enterSymptoms": "तुमची लक्षणां घालात",
+    "checkSymptoms": "लक्षणां तपासात",
+    "vitals": "म्हत्वाची चिन्नां",
+    "temperature": "तापमान",
+    "bloodPressure": "रक्तदाब",
+    "heartRate": "काळजाचो ठोको",
+    "prescription": "औषधाची पर्ची",
+    "noRecords": "आरोग्य नोंदी मेळ्ळ्यो ना"
+  },
+  "doctor": {
+    "dashboard": "वैद्य डॅशबोर्ड",
+    "patients": "म्हजे रुग्ण",
+    "appointments": "भेटी",
+    "viewRecord": "नोंद पळयात",
+    "acceptAppointment": "मान्य करात",
+    "rescheduleAppointment": "परत वेळापत्रक करात",
+    "patientDetails": "रुग्णाचे तपशील",
+    "specialty": "विशेषता"
+  },
+  "teleconsult": {
+    "title": "टेलिकन्सल्टेशन",
+    "joinCall": "कॉलांत सामील जावप",
+    "camera": "कॅमेरा",
+    "microphone": "मायक्रोफोन",
+    "endCall": "कॉल संपयात",
+    "waitingForDoctor": "वैद्य सामील जावपाची वाट पळयतात...",
+    "callConnected": "कॉल जोडलो"
+  },
+  "symptoms": {
+    "flu": "सामान्य फ्लू",
+    "cold": "सामान्य थंडगी",
+    "gastritis": "गॅस्ट्रायटिस",
+    "hypertension": "उच्च रक्तदाब",
+    "fever": "ताप",
+    "headache": "डोकेदुखी",
+    "recommendations": {
+      "rest": "पुरेशी विसावणी घ्यात",
+      "fluids": "चड द्रव प्यात",
+      "medication": "सुचयल्ली औषधां घ्यात",
+      "consultation": "लक्षणां चालू उरल्यार वैद्याचो सल्लो घ्यात"
+    }
+  }
+}

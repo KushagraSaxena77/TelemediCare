@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "مريض",
+    "doctor": "ڊاڪٽر",
+    "name": "نالو",
+    "age": "عمر",
+    "date": "تاريخ",
+    "time": "وقت",
+    "symptoms": "علامتون",
+    "notes": "نوٽس",
+    "save": "محفوظ ڪريو",
+    "cancel": "منسوخ ڪريو",
+    "submit": "جمع ڪريو",
+    "back": "واپس",
+    "next": "اڳيون",
+    "loading": "لوڊ ٿي رهيو آهي...",
+    "error": "خرابي",
+    "success": "ڪاميابي"
+  },
+  "landing": {
+    "title": "گهڻ لساني ٽيلي ميڊيسن پليٽ فارم",
+    "subtitle": "توهان جي ٻولي ۾ صحت جي سار سنڀال",
+    "selectLanguage": "ٻولي چونڊيو",
+    "selectRole": "جاري رکڻ لاءِ پنهنجو ڪردار چونڊيو:",
+    "iAmPatient": "مان هڪ مريض آهيان",
+    "iAmDoctor": "مان هڪ ڊاڪٽر آهيان"
+  },
+  "patient": {
+    "dashboard": "مريض ڊيش بورڊ",
+    "profile": "پروفائل",
+    "lastCheckup": "آخري چيڪ اپ",
+    "healthRecords": "صحت جا رڪارڊ",
+    "symptomChecker": "علامت چيڪ ڪندڙ",
+    "bookAppointment": "ملاقات بک ڪريو",
+    "addRecord": "نئون رڪارڊ شامل ڪريو",
+    "enterSymptoms": "پنهنجون علامتون داخل ڪريو",
+    "checkSymptoms": "علامتون چيڪ ڪريو",
+    "vitals": "اهم نشانيون",
+    "temperature": "گرمي پد",
+    "bloodPressure": "بلڊ پريشر",
+    "heartRate": "دل جي رفتار",
+    "prescription": "نسخو",
+    "noRecords": "صحت جا رڪارڊ نه مليا"
+  },
+  "doctor": {
+    "dashboard": "ڊاڪٽر ڊيش بورڊ",
+    "patients": "منهنجا مريض",
+    "appointments": "ملاقاتون",
+    "viewRecord": "رڪارڊ ڏسو",
+    "acceptAppointment": "قبول ڪريو",
+    "rescheduleAppointment": "ٻيهر شيڊول ڪريو",
+    "patientDetails": "مريض جا تفصيل",
+    "specialty": "خاصيت"
+  },
+  "teleconsult": {
+    "title": "ٽيلي ڪنسلٽيشن",
+    "joinCall": "ڪال ۾ شامل ٿيو",
+    "camera": "ڪئميرا",
+    "microphone": "مائڪروفون",
+    "endCall": "ڪال ختم ڪريو",
+    "waitingForDoctor": "ڊاڪٽر جي شامل ٿيڻ جو انتظار...",
+    "callConnected": "ڪال ڳنڍجي وئي"
+  },
+  "symptoms": {
+    "flu": "عام فلو",
+    "cold": "عام زکام",
+    "gastritis": "گيسٽرائٽس",
+    "hypertension": "هاءِ بلڊ پريشر",
+    "fever": "بخار",
+    "headache": "سر درد",
+    "recommendations": {
+      "rest": "مناسب آرام ڪريو",
+      "fluids": "گهڻو پاڻي پيئو",
+      "medication": "تجويز ڪيل دوا وٺو",
+      "consultation": "علامتون جاري رهڻ تي ڊاڪٽر سان صلاح ڪريو"
+    }
+  }
+}

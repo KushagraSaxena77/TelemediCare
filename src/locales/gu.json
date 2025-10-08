@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "દર્દી",
+    "doctor": "ડૉક્ટર",
+    "name": "નામ",
+    "age": "ઉંમર",
+    "date": "તારીખ",
+    "time": "સમય",
+    "symptoms": "લક્ષણો",
+    "notes": "નોંધો",
+    "save": "સેવ કરો",
+    "cancel": "રદ કરો",
+    "submit": "સબમિટ કરો",
+    "back": "પાછળ",
+    "next": "આગળ",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "error": "ભૂલ",
+    "success": "સફળતા"
+  },
+  "landing": {
+    "title": "બહુભાષી ટેલિમેડિસિન પ્લેટફોર્મ",
+    "subtitle": "તમારી ભાષામાં આરોગ્ય સેવા",
+    "selectLanguage": "ભાષા પસંદ કરો",
+    "selectRole": "ચાલુ રાખવા માટે તમારી ભૂમિકા પસંદ કરો:",
+    "iAmPatient": "હું એક દર્દી છું",
+    "iAmDoctor": "હું એક ડૉક્ટર છું"
+  },
+  "patient": {
+    "dashboard": "દર્દી ડેશબોર્ડ",
+    "profile": "પ્રોફાઇલ",
+    "lastCheckup": "છેલ્લી તપાસ",
+    "healthRecords": "આરોગ્ય રેકોર્ડ્સ",
+    "symptomChecker": "લક્ષણ તપાસનાર",
+    "bookAppointment": "એપોઇન્ટમેન્ટ બુક કરો",
+    "addRecord": "નવો રેકોર્ડ ઉમેરો",
+    "enterSymptoms": "તમારા લક્ષણો દાખલ કરો",
+    "checkSymptoms": "લક્ષણો તપાસો",
+    "vitals": "મહત્વપૂર્ણ સંકેતો",
+    "temperature": "તાપમાન",
+    "bloodPressure": "બ્લડ પ્રેશર",
+    "heartRate": "હૃદયના ધબકારા",
+    "prescription": "પ્રિસ્ક્રિપ્શન",
+    "noRecords": "આરોગ્ય રેકોર્ડ્સ મળ્યા નથી"
+  },
+  "doctor": {
+    "dashboard": "ડૉક્ટર ડેશબોર્ડ",
+    "patients": "મારા દર્દીઓ",
+    "appointments": "એપોઇન્ટમેન્ટ્સ",
+    "viewRecord": "રેકોર્ડ જુઓ",
+    "acceptAppointment": "સ્વીકારો",
+    "rescheduleAppointment": "ફરીથી શેડ્યૂલ કરો",
+    "patientDetails": "દર્દીની વિગતો",
+    "specialty": "વિશેષતા"
+  },
+  "teleconsult": {
+    "title": "ટેલિકન્સલ્ટેશન",
+    "joinCall": "કૉલમાં જોડાઓ",
+    "camera": "કેમેરા",
+    "microphone": "માઇક્રોફોન",
+    "endCall": "કૉલ સમાપ્ત કરો",
+    "waitingForDoctor": "ડૉક્ટરના જોડાવાની રાહ...",
+    "callConnected": "કૉલ કનેક્ટ થયો"
+  },
+  "symptoms": {
+    "flu": "સામાન્ય ફ્લૂ",
+    "cold": "સામાન્ય શરદી",
+    "gastritis": "ગેસ્ટ્રાઇટિસ",
+    "hypertension": "હાઇ બ્લડ પ્રેશર",
+    "fever": "તાવ",
+    "headache": "માથાનો દુખાવો",
+    "recommendations": {
+      "rest": "પૂરતો આરામ કરો",
+      "fluids": "પુષ્કળ પ્રવાહી પીઓ",
+      "medication": "સૂચવેલી દવા લો",
+      "consultation": "લક્ષણો ચાલુ રહે તો ડૉક્ટરની સલાહ લો"
+    }
+  }
+}

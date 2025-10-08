@@ -1,0 +1,78 @@
+{
+  "common": {
+    "patient": "অনাবা",
+    "doctor": "মৈবা",
+    "name": "মিং",
+    "age": "চহি",
+    "date": "তাং",
+    "time": "মতম",
+    "symptoms": "অনাবগী খুদম",
+    "notes": "ইশিং",
+    "save": "থম্বিয়ু",
+    "cancel": "লৈতবা",
+    "submit": "থাবিয়ু",
+    "back": "মখা",
+    "next": "মতুং",
+    "loading": "লোড তৌরিবা...",
+    "error": "অরানবা",
+    "success": "লৈরবা"
+  },
+  "landing": {
+    "title": "কয়া লোন গী টেলিমেডিসিন প্লেটফর্ম",
+    "subtitle": "নখোয়গী লোনদা স্বাস্থ্য সেবা",
+    "selectLanguage": "লোন খনবিয়ু",
+    "selectRole": "চৎনবা পাম্বৈ নখোয়গী পান্দম খনবিয়ু:",
+    "iAmPatient": "ঐ অনাবা অমনি",
+    "iAmDoctor": "ঐ মৈবা অমনি"
+  },
+  "patient": {
+    "dashboard": "অনাবগী ডেশবোর্ড",
+    "profile": "প্রোফাইল",
+    "lastCheckup": "অরোইবা য়েংবা",
+    "healthRecords": "স্বাস্থ্য রেকর্ড",
+    "symptomChecker": "অনাবগী খুদম য়েংবা",
+    "bookAppointment": "উনবা বুক তৌবিয়ু",
+    "addRecord": "অনৌবা রেকর্ড হাপচিনবিয়ু",
+    "enterSymptoms": "নখোয়গী অনাবগী খুদম ইবিয়ু",
+    "checkSymptoms": "অনাবগী খুদম য়েংবিয়ু",
+    "vitals": "মরুওইবা খুদম",
+    "temperature": "অশাবা",
+    "bloodPressure": "ঈগী দাব",
+    "heartRate": "পুক্নিংগী তুম্বা",
+    "prescription": "হিদাক",
+    "noRecords": "স্বাস্থ্য রেকর্ড ফংদ্রে"
+  },
+  "doctor": {
+    "dashboard": "মৈবগী ডেশবোর্ড",
+    "patients": "ঐগী অনাবশিং",
+    "appointments": "উনবশিং",
+    "viewRecord": "রেকর্ড য়েংবিয়ু",
+    "acceptAppointment": "লৌশিনবিয়ু",
+    "rescheduleAppointment": "অমুক হনা তৌবিয়ু",
+    "patientDetails": "অনাবগী বিবরণ",
+    "specialty": "খুদোংচাবা"
+  },
+  "teleconsult": {
+    "title": "টেলিকনসল্টেশন",
+    "joinCall": "কোল দা শরুক য়াবিয়ু",
+    "camera": "কেমেরা",
+    "microphone": "মাইক্রোফোন",
+    "endCall": "কোল লোইশিনবিয়ু",
+    "waitingForDoctor": "মৈবা শরুক য়াবগী ঙাইরিবা...",
+    "callConnected": "কোল শম্নখিবা"
+  },
+  "symptoms": {
+    "flu": "কমন ফ্লু",
+    "cold": "কমন কোল্ড",
+    "gastritis": "গেস্ট্রাইটিস",
+    "hypertension": "হাই ব্লাড প্রেশার",
+    "fever": "লাইনা",
+    "headache": "কোক্তা",
+    "recommendations": {
+      "rest": "মতিক চাবা ইংগৎলু",
+      "fluids": "ঈশিং কয়া থক্কো",
+      "medication": "পীরিবা হিদাক চাবিয়ু",
+      "consultation": "অনাবগী খুদম লৈতে অদুবু মৈবদা হাংগৎলু"
+    }
+  }
+}
